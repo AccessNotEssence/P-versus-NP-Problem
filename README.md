@@ -1,6 +1,6 @@
 # P-versus-NP-Problem (Formal Skeletal Framework)
 
-[![Lean 4 Mathlib Build](https://github.com/AccessNotEssence/P-versus-NP-Problem/actions/workflows/lean_build.yml/badge.svg)](https://github.com/AccessNotEssence/P-versus-NP-Problem/actions/workflows/lean_build.yml)
+[![Lean 4 Mathlib Build](https://github.com/AccessNotEssence/P-versus-NP-Problem/actions/workflows/lean_build.yml/badge.svg)]
 
 ## Overview
 
