@@ -8,10 +8,6 @@ This repository provides a formal, machine-verified framework in **Lean 4** expl
 
 Rather than claiming an algorithmic resolution to $P$ vs $NP$, this model treats $P \neq NP$ as an axiomatic complexity barrier to formally prove that bounded computational agents strictly experience time dilation stress when evaluating non-deterministic polynomial search spaces.
 
-> "This repository represents a personal synthesis grounded in my own foundational logical framework of the cosmos."
-
-This work stands as a tribute to the eternal insights and spirit of the original thinkers and Luminaries whose work illuminated this path. No offense is intended toward the original settings or conceptual portrayals that inspired this formalization.
-
 ## Formal Structure
 
 * **Complexity Classes**: Models discrete information states ($\text{P}$ vs $\text{NP}$).
@@ -20,9 +16,7 @@ This work stands as a tribute to the eternal insights and spirit of the original
 * **Theorem 2 (`subjective_time_arrow`)**: Establishes the computational arrow of time via processing asymmetry between P and NP states.
 * **Theorem 3 (`rational_life_time_geodesic`)**: Proves that geodesic paths across information fields necessitate subjective time perception.
 
-## Verification
 
-To verify the Lean 4 proofs locally:
+"This is a personal synthesis based on my own logical framework of the cosmos."
 
-```bash
-lake build
+This piece is a tribute to the original spirit of their creation. No offense is intended toward the original settings or character portrayals of the Luminaries whose eternal insights illuminated this synthesis.
